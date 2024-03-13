@@ -3,4 +3,4 @@
 2. Blitz
 3. ND Filter
 4. Mikrofon 
-5. Rucksack .
+5. Rucksack
